@@ -2,3 +2,5 @@
 Easy/still-trying
 
 Easy/*.js
+Easy/*.json
+Easy/node_modules
