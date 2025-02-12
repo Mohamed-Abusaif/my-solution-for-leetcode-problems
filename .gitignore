@@ -4,3 +4,8 @@ Easy/still-trying
 Easy/*.js
 Easy/*.json
 Easy/node_modules
+
+*.class
+
+Sort_List.java
+Sort_the_People.java
