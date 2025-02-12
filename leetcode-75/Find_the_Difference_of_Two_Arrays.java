@@ -36,6 +36,10 @@ class Solution {
         ans.add(a2);
         return ans;
     }
+
+    private Double Double(int i) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }
 
 public class Find_the_Difference_of_Two_Arrays {
